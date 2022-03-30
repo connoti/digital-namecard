@@ -11,5 +11,5 @@ item1.ADR;type=WORK;type=pref:;;241 Cedar Knolls Road;;;07960;New Jersey
 item1.X-ABADR:sg
 item2.URL;type=pref:directnorth.digital
 item2.X-ABLabel:_$!<HomePage>!$_
-PHOTO;VALUE#URI;TYPE#PNG::https://connoti.github.io/digital-namecard/Profile_Tim-150x150.png
+PHOTO;VALUE#URI;TYPE#GIF:https://connoti.github.io/digital-namecard/assets/Profile_Tim-251x250.gif
 END:VCARD
